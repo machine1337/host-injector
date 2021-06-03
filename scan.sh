@@ -25,7 +25,7 @@ echo -e ${CP}"   |_| |_|\___/|___/\__| |___|_| |_|/ |\___|\___|\__\___/|_|      
 echo -e ${CP}"                                  |__/                               # "  
 echo -e ${BLUE2}"          A Framework for Host Header Injection                      # "     
 echo -e ${YELLOW}"             https://facebook.com/unknownclay                        #"     
-echo -e ${ORANGE}"             Coded By: Machin404                                     #"
+echo -e ${ORANGE}"             Coded By: Machine404                                    #"
 echo -e ${BLUE}"             https://github.com/machine1337                          # "
 echo -e ${RED}"#####################################################################"                                 
 }
