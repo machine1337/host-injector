@@ -18,6 +18,3 @@
 # Credit:
     If you like my script.......then kindly give us a star and follow. Thanks in Advance
     
-# Contact Me:
-    (Facebook) [https://facebook.com/unknownclay]
-    (Twitter)  [https://twitter.com/whoami4041]
